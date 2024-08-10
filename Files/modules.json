@@ -1,0 +1,470 @@
+[
+    {
+      "Module_Name": "Academic Writing 181",
+      "Module_Code": "ACW181",
+      "Course": "BCOM",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Computer Architecture 181",
+      "Module_Code": "COA181",
+      "Course": "BCOM",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Database Development 181",
+      "Module_Code": "DBD181",
+      "Course": "BCOM",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Information Systems 181",
+      "Module_Code": "INF181",
+      "Course": "BCOM",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Innovation and Leadership 101",
+      "Module_Code": "INL101",
+      "Course": "BCOM",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Innovation and Leadership 102",
+      "Module_Code": "INL102",
+      "Course": "BCOM",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Linear Programming 181",
+      "Module_Code": "LPR181",
+      "Course": "BCOM",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Mathematics 181",
+      "Module_Code": "MAT181",
+      "Course": "BCOM",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Networking Development 181",
+      "Module_Code": "NWD181",
+      "Course": "BCOM",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Programming 181",
+      "Module_Code": "PRG181",
+      "Course": "BCOM",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=5Cr83DsufZk&pp=ygUOc3RpY2sgYnVnIG1lbWU%3D"
+    },
+    {
+      "Module_Name": "Programming 182",
+      "Module_Code": "PRG182",
+      "Course": "BCOM",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=M5V_IXMewl4&pp=ygUOc3RpY2sgYnVnIG1lbWU%3D"
+    },
+    {
+      "Module_Name": "Statistics 181",
+      "Module_Code": "STA181",
+      "Course": "BCOM",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Web Programming 181",
+      "Module_Code": "WPR181",
+      "Course": "BCOM",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUjcmljayBhc3RsZXkgbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D"
+    },
+    {
+      "Module_Name": "Academic Writing 171",
+      "Module_Code": "ACW171",
+      "Course": "BIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Computer Architecture 171",
+      "Module_Code": "COA171",
+      "Course": "BIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Database Development 171",
+      "Module_Code": "DBD171",
+      "Course": "BIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Information Systems 171",
+      "Module_Code": "INF171",
+      "Course": "BIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Innovation and Leadership 171",
+      "Module_Code": "INL171",
+      "Course": "BIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Innovation and Leadership 172",
+      "Module_Code": "INL172",
+      "Course": "BIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Linear Programming 171",
+      "Module_Code": "LPR171",
+      "Course": "BIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Mathematics 171",
+      "Module_Code": "MAT171",
+      "Course": "BIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Networking Development 171",
+      "Module_Code": "NWD171",
+      "Course": "BIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Programming 171",
+      "Module_Code": "PRG171",
+      "Course": "BIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=5Cr83DsufZk&pp=ygUOc3RpY2sgYnVnIG1lbWU%3D"
+    },
+    {
+      "Module_Name": "Programming 172",
+      "Module_Code": "PRG172",
+      "Course": "BIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=M5V_IXMewl4&pp=ygUOc3RpY2sgYnVnIG1lbWU%3D"
+    },
+    {
+      "Module_Name": "Statistics 171",
+      "Module_Code": "STA171",
+      "Course": "BIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Web Programming 171",
+      "Module_Code": "WPR171",
+      "Course": "BIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUjcmljayBhc3RsZXkgbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D"
+    },
+    {
+      "Module_Name": "Academic Writing 151",
+      "Module_Code": "ACW151",
+      "Course": "CIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Computer Architecture 151",
+      "Module_Code": "COA151",
+      "Course": "CIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Database Development 151",
+      "Module_Code": "DBD151",
+      "Course": "CIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Information Systems 151",
+      "Module_Code": "INF151",
+      "Course": "CIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Innovation and Leadership 151",
+      "Module_Code": "INL151",
+      "Course": "CIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Innovation and Leadership 152",
+      "Module_Code": "INL152",
+      "Course": "CIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Linear Programming 151",
+      "Module_Code": "LPR151",
+      "Course": "CIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Mathematics 151",
+      "Module_Code": "MAT151",
+      "Course": "CIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Networking Development 151",
+      "Module_Code": "NWD151",
+      "Course": "CIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Programming 151",
+      "Module_Code": "PRG151",
+      "Course": "CIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=5Cr83DsufZk&pp=ygUOc3RpY2sgYnVnIG1lbWU%3D"
+    },
+    {
+      "Module_Name": "Programming 152",
+      "Module_Code": "PRG152",
+      "Course": "CIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=M5V_IXMewl4&pp=ygUOc3RpY2sgYnVnIG1lbWU%3D"
+    },
+    {
+      "Module_Name": "Statistics 151",
+      "Module_Code": "STA151",
+      "Course": "CIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Web Programming 151",
+      "Module_Code": "WPR151",
+      "Course": "CIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUjcmljayBhc3RsZXkgbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D"
+    },
+    {
+      "Module_Name": "Academic Writing 161",
+      "Module_Code": "ACW161",
+      "Course": "DIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Computer Architecture 161",
+      "Module_Code": "COA161",
+      "Course": "DIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Database Development 161",
+      "Module_Code": "DBD161",
+      "Course": "DIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Information Systems 161",
+      "Module_Code": "INF161",
+      "Course": "DIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Innovation and Leadership 161",
+      "Module_Code": "INL161",
+      "Course": "DIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Innovation and Leadership 162",
+      "Module_Code": "INL162",
+      "Course": "DIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Linear Programming 161",
+      "Module_Code": "LPR161",
+      "Course": "DIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Mathematics 161",
+      "Module_Code": "MAT161",
+      "Course": "DIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Networking Development 161",
+      "Module_Code": "NWD161",
+      "Course": "DIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Programming 161",
+      "Module_Code": "PRG161",
+      "Course": "DIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=5Cr83DsufZk&pp=ygUOc3RpY2sgYnVnIG1lbWU%3D"
+    },
+    {
+      "Module_Name": "Programming 162",
+      "Module_Code": "PRG162",
+      "Course": "DIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=M5V_IXMewl4&pp=ygUOc3RpY2sgYnVnIG1lbWU%3D"
+    },
+    {
+      "Module_Name": "Statistics 161",
+      "Module_Code": "STA161",
+      "Course": "DIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=UpaTqQpfLoY&pp=ygUYYmVsZ2l1bSBjYW1wdXMgaXR2ZXJzaXR5"
+    },
+    {
+      "Module_Name": "Web Programming 161",
+      "Module_Code": "WPR161",
+      "Course": "DIT",
+      "Lecturers": ["Simba", "Gloria"],
+      "Venue": "PHI",
+      "Documentation": "../Files/StudyGuide.pdf",
+      "Video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUjcmljayBhc3RsZXkgbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D"
+    }
+  ]

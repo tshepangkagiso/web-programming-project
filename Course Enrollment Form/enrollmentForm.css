@@ -1,0 +1,242 @@
+:root {
+    --primary-color: rgba(0, 0, 0, 0.829);
+    --secondary-color: white;
+    --accent-color: red;
+    --text-color: #333;
+    --transition-speed: 0.3s;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    color: var(--text-color);
+    background-color: var(--secondary-color);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Header section */
+header {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 1rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1 {
+    font-size: 1.8rem;
+    font-weight: 700;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav ul li {
+    margin-left: 1.5rem;
+}
+
+nav ul li a, nav ul li button {
+    color: white;
+    text-decoration: none;
+    font-weight: 400;
+    transition: color var(--transition-speed);
+}
+
+nav ul li a:hover, nav ul li button:hover {
+    color: var(--accent-color);
+}
+
+/* Main section */
+main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+
+form {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    border: 2px solid green;
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+}
+
+input[type="text"], input[type="date"], select {
+    width: 100%;
+    padding: 0.75rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+}
+
+button[type="submit"] {
+    background-color: var(--primary-color);
+    color: white;
+    font-size: 1rem;
+    padding: 0.75rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color var(--transition-speed);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-weight: 700;
+}
+
+button[type="submit"]:hover {
+    background-color: green;
+}
+
+button i {
+    margin-right: 0.5rem;
+}
+
+/* Custom Alert Box */
+.custom-alert {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6); 
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.alert-content {
+    background-color: #fff;
+    padding: 1.5rem; 
+    border-radius: 8px; 
+    text-align: center;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); 
+    max-width: 90%;
+    width: 400px; 
+}
+
+.alert-content p {
+    margin-bottom: 1rem; 
+    font-size: 1.1rem; 
+    line-height: 1.5; 
+}
+
+.close-btn {
+    font-size: 1.5rem;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    color: #667; 
+}
+
+.close-btn:hover {
+    color: var(--accent-color);
+}
+
+.alert-content button {
+    padding: 0.75rem 1.5rem;
+    background-color: var(--primary-color);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 700;
+    transition: background-color var(--transition-speed), transform var(--transition-speed); 
+    font-size: 1rem; 
+}
+
+.alert-content button:hover {
+    background-color: var(--accent-color);
+    transform: scale(1.05);
+}
+
+.alert-content button:focus {
+    outline: none; 
+    box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.2); 
+}
+
+
+/* Footer section */
+footer {
+    background-color: var(--primary-color);
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    margin-top: auto;
+}
+
+footer ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin-top: 0.5rem;
+}
+
+footer ul li {
+    margin: 0 0.5rem;
+}
+
+
+/* Page Loader */
+#pageLoader {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.9);
+    z-index: 1001;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 1.5rem;
+    color: var(--primary-color);
+}
+
+#loaderContent {
+    text-align: center;
+}
+
+#loadingEmoji {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+#developerNames {
+    font-size: 1.2rem;
+    margin-top: 1rem;
+}

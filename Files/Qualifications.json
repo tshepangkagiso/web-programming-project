@@ -1,0 +1,34 @@
+[    
+    {
+        "Course_Title": "Bachelor of Computing",
+        "Course_Code": "BCOM",
+        "Course_Level": "Level 8",
+        "Course_Duration": "4 years",
+        "Course_Description": "The Bachelor of Computing is a comprehensive four-year program designed to provide students with a strong foundation in computer science and software engineering. This course covers a wide range of topics including programming, algorithms, data structures, database management, network security, and artificial intelligence. Students will gain hands-on experience through practical projects and internships, preparing them for a successful career in the rapidly evolving tech industry.",
+        "Course_Brief":"The Bachelor of Computing is a comprehensive four-year program designed to provide students with a strong foundation in computer science and software engineering."
+    },
+    {
+        "Course_Title": "Bachelor of IT",
+        "Course_Code": "BIT",
+        "Course_Level": "Level 7",
+        "Course_Duration": "3 years",
+        "Course_Description": "The Bachelor of IT is a three-year program that focuses on developing practical IT skills and knowledge. This course covers essential areas such as software development, web technologies, system analysis, and IT project management. Students will learn to design, implement, and maintain IT systems, preparing them for various roles in the IT industry. The program also emphasizes problem-solving skills and adaptability to new technologies.",        "Course_Brief":"The Bachelor of IT is a three-year program that focuses on developing practical IT skills and knowledge."
+    },
+    {
+        "Course_Title": "Diploma in Information Technology",
+        "Course_Code": "DIT",
+        "Course_Level": "Level 6",
+        "Course_Duration": "3 years",
+        "Course_Description": "The Diploma in Information Technology is a three-year program that provides a solid foundation in IT skills and knowledge. This course covers key areas such as programming, database management, network administration, and web development. Students will gain practical experience through hands-on projects and learn to apply IT solutions to real-world problems. This diploma prepares graduates for entry-level positions in the IT industry or further studies in specialized IT fields.",
+        "Course_Brief":"The Diploma in Information Technology is a three-year program that provides a solid foundation in IT skills and knowledge"
+    },
+    {
+        "Course_Title": "Certificate: IT(Database Development)",
+        "Course_Code": "CIT",
+        "Course_Level": "Level 6",
+        "Course_Duration": "1 Year",
+        "Course_Description": "The Certificate in IT (Database Development) is a one-year specialized program focusing on database design, implementation, and management. Students will learn about relational database concepts, SQL programming, database administration, and data warehousing. The course also covers basic web development and how to integrate databases with web applications. This certificate program is ideal for those looking to quickly gain practical skills in database development and management.",
+        "Course_Brief":"The Certificate in IT (Database Development) is a one-year specialized program focusing on database design, implementation, and management. Students will learn about relational database concepts, SQL programming, database administration, and data warehousing. The course also covers basic web development and how to integrate databases with web applications"
+    }
+   
+]

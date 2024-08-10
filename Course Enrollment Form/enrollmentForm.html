@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Enrollment Form</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <link rel="stylesheet" href="enrollmentForm.css">
+    <script src="./enrollment.js" defer></script>
+</head>
+<body>
+    <div id="customAlert" class="custom-alert">
+        <div class="alert-content">
+            <span class="close-btn" onclick="closeCustomAlert()">&times;</span>
+            <p id="alertMessage">This is a custom alert box!</p>
+            <button onclick="closeCustomAlert()">OK</button>
+        </div>
+    </div>
+
+    <header>
+        <div class="header-content">
+            <h1>Course Enrollment</h1>
+            <nav>
+                <ul>
+                    <li><a href="../Main Page/MainPage.html"><i class="fas fa-home"></i> Home</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <form id="enrollmentForm">
+            <h1>Enrollment Form</h1>
+            
+            <div class="form-group">
+                <label for="courseName">Qualification:</label>
+                <select name="courseName" id="courseName" required>
+                    <optgroup label="Select your qualification">
+                        <option value="">--Please choose an option--</option>
+                        <option value="Bachelor of Computing">Bachelor of Computing</option>
+                        <option value="Bachelor of IT">Bachelor of IT</option>
+                        <option value="Diploma in Information Technology">Diploma in Information Technology</option>
+                        <option value="Certificate: IT(Database Development)">Certificate: IT(Database Development)</option>
+                    </optgroup>
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <label for="userName">Full name:</label>
+                <input type="text" name="userName" id="userName" placeholder="Enter your full name" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="date">Date of birth:</label>
+                <input type="date" name="date" id="date" required>
+            </div>
+            
+            <button type="submit" id="formBtn" onclick="enrollmentFormProcess(event)">
+                <i class="fas fa-paper-plane"></i> Submit Application
+            </button>
+        </form>
+    </main>
+    <footer>
+        <p>&copy; 2024 Belgium Campus iTversity. All rights reserved.</p>
+        <ul>
+            <li>Created by:</li>
+            <li>Tshepang Mashigo - Student Number 578012</li>
+            <li>Gerald Enright - Student Number 577830</li>
+            <li>Bernardt Greunen - Student Number 577843</li>
+        </ul>
+    </footer>
+</body>
+</html>
