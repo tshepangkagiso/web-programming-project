@@ -20,7 +20,7 @@ async function readLocalJson(filePath) {
 }
  
 async function initializeCourses() {
-    Qualification = await readLocalJson("../Files/Qualifications.json");
+    Qualification = await readLocalJson("./Files/Qualifications.json");
     console.table(Qualification);
     SaveCoursesToLocalStorage();
 }
@@ -40,7 +40,7 @@ async function readLocalModuleJson(filePath) {
 }
  
 async function initializeModules() {
-    modules = await readLocalModuleJson("../Files/modules.json");
+    modules = await readLocalModuleJson("./Files/modules.json");
     console.table(modules);
     SaveModulesToLocalStorage();
 }
@@ -173,7 +173,7 @@ function ViewCourse(queryCourse){
                 
                 const enrollButton = document.createElement('a');
                 enrollButton.innerText = 'Enroll Now';
-                enrollButton.href = '../Course Enrollment Form/enrollmentForm.html';
+                enrollButton.href = './Course Enrollment Form/enrollmentForm.html';
                 enrollButton.target = '_blank';
                 enrollButton.classList.add('enroll-button');
                 
@@ -218,7 +218,7 @@ function ViewCourse(queryCourse){
                     
                     const detailedEnrollButton = document.createElement('a');
                     detailedEnrollButton.innerText = 'Enroll Now';
-                    detailedEnrollButton.href = '../Course Enrollment Form/enrollmentForm.html'; 
+                    detailedEnrollButton.href = './Course Enrollment Form/enrollmentForm.html'; 
                     detailedEnrollButton.target = '_blank'; 
                     detailedEnrollButton.classList.add('enroll-button');
                     
